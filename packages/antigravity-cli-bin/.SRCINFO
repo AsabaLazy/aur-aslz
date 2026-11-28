@@ -1,6 +1,6 @@
 pkgbase = antigravity-cli-bin
 	pkgdesc = Google's agentic development platform (CLI companion)
-	pkgver = 1.5.5
+	pkgver = 1.5.19
 	pkgrel = 1
 	url = https://antigravity.google
 	arch = x86_64
@@ -13,7 +13,7 @@ pkgbase = antigravity-cli-bin
 	conflicts = agy
 	options = !debug
 	options = !strip
-	source_x86_64 = antigravity-cli-bin-1.5.5.tar.gz::https://github.com/google-antigravity/antigravity-cli/releases/download/1.5.5/agy_cli_linux_x64.tar.gz
-	sha256sums_x86_64 = bfe2c25edeadd98c2942417c9972ee0e1faa3f0afdc90711e84d5f3a633b5078
+	source_x86_64 = antigravity-cli-bin-1.5.19.tar.gz::https://github.com/google-antigravity/antigravity-cli/releases/download/1.5.19/agy_cli_linux_x64.tar.gz
+	sha256sums_x86_64 = 971a4aa707fb0886d4e1df5f1f50bad7b01aa492d0b1f13df4ea7402e96dae90
 
 pkgname = antigravity-cli-bin
